@@ -469,3 +469,5 @@ if(ANDROID)
     # TODO: Add more versions
   endif()
 endif()
+
+hunter_default_version(libtorrent VERSION 1.1.8)
